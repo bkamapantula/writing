@@ -31,6 +31,7 @@ YouTube Initially supported creating videos from images, which has now been aban
 [WeVideo](https://chrome.google.com/webstore/detail/wevideoio/gcoakhenolkjeplciidonbhdgbgpkfch?utm_source=chrome-ntp-icon) is an exciting tool where we can upload images (screenshots, pictures etc.). However, the workflow was not as smooth as I would have liked. Also, it required video editing skills of sorts which I didn’t have, and so I couldn’t progress with it.
 
 **4) GIF maker aka Docs365 GIFmaker**
+
 Search the question “How to make a GIF” on Google and GIFMaker link would show up on the front page. It’s a GIF maker for Google Slides that generates a GIF from a set of slides, but I can use ImageMagick for that anyway and with more control. It is now called Docs365 GIFmaker. One can install this as an add-on in Google Slides. This add-on gives the ability to control the dimensions (width and height) and frame change duration of the GIF.
 
 ![mapviewerui docs](https://blog.gramener.com/wp-content/uploads/2018/10/mapviewerui-docs365-500width-2.gif)
@@ -38,6 +39,7 @@ Search the question “How to make a GIF” on Google and GIFMaker link would sh
 Demonstration of an internal WIP tool to visualize geographical regions and overlay custom datasets on top of it to color the regions.
 
 **5) ImageMagick**
+
 Using ImageMagick requires command line interface (CLI) skills. It’s not too hard to use once you’re a bit familiar with command line. If you’re directly looking for a solution, [head to StackOverflow](https://stackoverflow.com/questions/21212152/how-to-make-a-high-quality-animated-image-with-imagemagick). This tool can add custom text including positioning, with (which you can do via GUI in Photoshop). I liked the output of ImageMagick the best among all the approaches I have tried
 
 
