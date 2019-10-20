@@ -45,7 +45,9 @@ If you are an independent investigator (ex: citizen data scientist), you will li
 All approaches will involve carefully created visuals to narrate the story and results. It is critical to remember that the audience in each of the cases is different. Trained academics write publications for other trained academics. Corporate workers create results for business clients. Citizen data scientists write analysis for journalists, other investigators.
 
 ![udacity skill importance by role](https://blog.gramener.com/wp-content/uploads/2017/10/unnamed.png)
+
 Image credit: Udacity [e]
+
 In a gist, a variety of skills are useful to be a data scientist: data (gathering, cleaning, analysis, visualization), modeling (machine learning algorithms), statistics (understanding causality, accuracy metrics), software engineering (efficiency, quality assurance). The overlap of these skills in an individual will depend on the team size (individual vs small or medium or large organization). The breadth (software engineering, data processing, ML etc.) of the skills is as important as depth (understanding the mathematics behind ML algorithms or different statistical techniques) — you can only improve it over time.
 
 If you are working on any of the cogs above, you are contributing to the wheel of data science. Don’t let anyone tell you otherwise.
