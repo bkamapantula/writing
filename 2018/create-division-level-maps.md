@@ -17,7 +17,8 @@ Divide the participants into groups and let the individuals volunteer to pick th
 
 ### Pre-workshop preparation
 Initially, we kicked-off with the list of states for which division information is readily available on Wiki. This was followed by preparation on team creation, looking for divisions data for the non-Wiki listed states, logistics of workshop creation (sharing with the wider community, engaging internal teams), doing dry runs on map creation — I created a map file representing six regions (northern, southern, north-eastern, western, central, eastern) of India.
-Input file — Chhattisgarh districts
+
+![Input file — Chhattisgarh districts missing]()
 
 ### How
 For ease of the participants, we created a tutorial to guide them on the map creation. The Prerequisites for the workshop was qGIS software, which is a popular open source tool to create and edit maps.
