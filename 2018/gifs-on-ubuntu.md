@@ -14,16 +14,19 @@ Lena Groeger, from [ProPublica](https://github.com/lenagroeger/gifs), has publis
 **1) YouTube video creator**
 
 ![YouTube Video Creator](https://blog.gramener.com/wp-content/uploads/2018/10/youtube.jpg)
+
 YouTube Video Creator
 
 YouTube Initially supported creating videos from images, which has now been abandoned. Otherwise, it would’ve been a superb addition to the already favorite content creation tool. To proceed with my research I had to look for other tools. Let’s see what I found.
 
 **2) YouPitchMe for Google Slides, Chrome Extension**
+
 [YouPitchMe](https://chrome.google.com/webstore/detail/youpitchme-for-google-sli/nofklefochmimhfgigkijnbmbefhehce?utm_source=chrome-ntp-icon) is a useful tool where you can have a video of the user along with slides. It is helpful in making pitches for products. I tested with a short recording, and it was a smooth experience. However, I am not inclined to use 50% of the view with a human face and would instead use entire space for the GIF. Hence, I didn’t pursue this further. Hmm, so what’s next?
 
 **3) WeVideo, Chrome Extension**
 
 ![WeVideo for free GIFs](https://blog.gramener.com/wp-content/uploads/2018/10/we-video.jpg)
+
 
 [WeVideo](https://chrome.google.com/webstore/detail/wevideoio/gcoakhenolkjeplciidonbhdgbgpkfch?utm_source=chrome-ntp-icon) is an exciting tool where we can upload images (screenshots, pictures etc.). However, the workflow was not as smooth as I would have liked. Also, it required video editing skills of sorts which I didn’t have, and so I couldn’t progress with it.
 
