@@ -1,7 +1,7 @@
+The Power of Default Settings
+-----------------------------
 
 *Originally posted on 12 June 2017, at: https://blog.gramener.com/the-power-of-defaults/*
-
-The Power of Default Settings
 
 ![default iphone email signature](https://blog.gramener.com/wp-content/uploads/2017/06/2012.05.30_power_of_default_settings.png)
 
