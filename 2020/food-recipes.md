@@ -16,6 +16,4 @@ I'd expect to take 45-50 days to write down the recipes, cook all of them, fine-
 
 I'm not yet sure on how the output will be although I know what it won't be surely (photographs). I'll be reading a lot on food, cooking styles, circumstances etc to write well.
 
-In short the next three months would be nothing but celebration of food.
-
-This is my first instance of taking out time for an elaborate personal project.
+In short the next three months would be nothing but celebration of food. This is my first instance of taking out time for an elaborate personal project. Wish me luck!
