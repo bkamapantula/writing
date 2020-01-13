@@ -20,6 +20,12 @@ The workshop was carefully structured as follows:
 
 The sessions are geared towards people who are interested to narrate stories through comic form.
 
+### Part 1
+
+
+### Part 2
+
+
 ## Logistics
 ### Registrations
 For a capacity of 75 slots we were overbooked at 110. We did this assuming a higher dropout rate (30%) for free events.
@@ -30,7 +36,7 @@ To ensure participants turned up we telephoned the registrants, emailed/SMSed th
 The mix of participants was just right. We had people with different backgrounds: business, data analysts, students, data enthusiasts.
 
 ### Venue
-ISB turned out to be perfect host for the event.
+ISB turned out to be perfect host for the event. The lecture hall had a great setup for multiple boards, audio-video, microphones, . It was more than what we requested for. Giri (from ISB) took great care of the setup and us.
 
 ### Volunteers
 Organizing an external event is never easy and wouldn't be possible without all the volunteers who helped coordinate for logistics, food, printers, stickers, venue.
