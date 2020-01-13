@@ -73,6 +73,8 @@ A data art was planned as a takeaway. Note the sample below:
 
 ![how to read](../workshop-takeaway-how-to-read.jpg)
 
+Many people were curious to know how it was created. Thanks to Priti for making it! 
+
 ### Venue
 ISB turned out to be perfect host for the event. The lecture hall had a great setup for multiple boards, audio-video, microphones, seats. It was more than what we requested for. Giri (from ISB) took great care of the setup and us.
 
