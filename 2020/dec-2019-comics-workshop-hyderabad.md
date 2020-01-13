@@ -1,6 +1,8 @@
 # Data comics workshop in Hyderabad
 
-We, at Gramener, organized a data comics workshop at ISB on 11th December, 2019. The event was free for participants and had a capacity of 75 slots. 
+We, at Gramener, organized a [data comics workshop](https://www.meetup.com/meetup-group-EkjzkhLt/events/266798098/) at ISB on 14th December, 2019. The event was free for participants and was open for 75 slots.
+
+I share our experience of organizing a one of the kind data events.
 
 ## Table of contents
 
@@ -15,7 +17,7 @@ We, at Gramener, organized a data comics workshop at ISB on 11th December, 2019.
 - [Volunteers](#volunteers)
   
 ## Background
-To promote data storytelling within and outside the organization we started monthly data storytelling events first in Feb 2019 but became a regular practice from May to October (every second Friday of the month). Upon requests for a weekend event from the community we organized this workshop.
+To promote *data storytelling for business communication* within and outside the organization we started monthly data storytelling events first in Feb 2019 but became a regular practice from May to October (every second Friday of the month). Upon requests for a weekend event from the community we organized this workshop.
 
 The focus of all our events is learning and not competition. Hence, we don't award participants for their work but encourage discussion with everyone around.
 
@@ -26,29 +28,43 @@ The workshop was carefully structured as follows:
 | ----- | ---- | -- |
 | How to derive insights | What is an insight, how to find it | Bhasker Reddy |
 | Insights through comics | Narrating insights using comics | Richie Lionell |
-| Making comics | How to create characters, emotions, expressions, storyboarding | Ramya Mylavarapu |
+| Making comics | How to create characters, emotions, expressions, storyboarding. Output from this session is shared in [Part 1](#part-1) section below, | Ramya Mylavarapu |
 | Comics on steroids | Interactive comics with Augmented Reality | Richie Lionell |
 | Cant' draw? No problem! | Using [ComicGen](https://gramener.com/comicgen/) to create comics | Sunil Sharma |
+| Hands-on | Participants analyzed one of the two shared datasets to create insights and narrate them as a story. Output presented in [Part 2](#part-2) section below. | Participants |
 
 The sessions are geared towards people who are interested to narrate stories through comic form.
 
 ### Part 1
-
+As *Ramya* taught participants about expressions, emotions, characters... they practiced along. At the end of the hour, participants were asked to create a character of their own choice.
 
 ### Part 2
-
+In second half of the day, participants were given datasets to find insights and narrate a story on. They roughly had 2.5 hrs to do so.
 
 ## Logistics
 ### Registrations
-For a capacity of 75 slots we were overbooked at 110. We did this assuming a higher dropout rate (30%) for free events.
+For a capacity of 75 slots we were overbooked at 110. We did this accounting for a higher dropout rate (~30% from what I gather) for free events.
 
-To ensure participants turned up we telephoned the registrants, emailed/SMSed those whom we couldn't reach out to.
+To ensure participants turned up we telephoned the registrants, emailed/SMSed those whom we couldn't reach out to. At the end of it we had 84 participants apart from 11 volunteers.
 
 ### Participants
 The mix of participants was just right. We had people with different backgrounds: business, data analysts, students, data enthusiasts.
 
+### Stickers, takeaways
+We planned for three kinds of stickers/takeaways: one as a participant name tag, one as a takeaway, Gramener stickers. 
+
+A data art was planned as a takeaway. Note the sample below:
+
+![workshop takeaway](../workshop-takeaway.jpeg)
+
 ### Venue
-ISB turned out to be perfect host for the event. The lecture hall had a great setup for multiple boards, audio-video, microphones, . It was more than what we requested for. Giri (from ISB) took great care of the setup and us.
+ISB turned out to be perfect host for the event. The lecture hall had a great setup for multiple boards, audio-video, microphones, seats. It was more than what we requested for. Giri (from ISB) took great care of the setup and us.
 
 ## Volunteers
 Organizing an external event is never easy and wouldn't be possible without all the volunteers who helped coordinate for logistics, food, printers, stickers, venue.
+
+## References
+1. Data storytellers [meetup page](https://www.meetup.com/meetup-group-EkjzkhLt/)
+2. Data comics workshop @ Hyderabad [meetup page](https://www.meetup.com/meetup-group-EkjzkhLt/events/266798098/)
+3. ComicGen [website](https://gramener.com/comicgen/)
+
