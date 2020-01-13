@@ -2,6 +2,18 @@
 
 We, at Gramener, organized a data comics workshop at ISB on 11th December, 2019. The event was free for participants and had a capacity of 75 slots. 
 
+## Table of contents
+
+- [Background](#background)
+- [Workshop](#workshop)
+  - [Part 1](#part-1)
+  - [Part 2](#part-2)
+- [Logistics](#logistics)
+  - [Registrations](#registrations)
+  - [Participants](#participants)
+  - [Venue](#venue)
+- [Volunteers](#volunteers)
+  
 ## Background
 To promote data storytelling within and outside the organization we started monthly data storytelling events first in Feb 2019 but became a regular practice from May to October (every second Friday of the month). Upon requests for a weekend event from the community we organized this workshop.
 
@@ -38,5 +50,5 @@ The mix of participants was just right. We had people with different backgrounds
 ### Venue
 ISB turned out to be perfect host for the event. The lecture hall had a great setup for multiple boards, audio-video, microphones, . It was more than what we requested for. Giri (from ISB) took great care of the setup and us.
 
-### Volunteers
+## Volunteers
 Organizing an external event is never easy and wouldn't be possible without all the volunteers who helped coordinate for logistics, food, printers, stickers, venue.
