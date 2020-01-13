@@ -10,6 +10,9 @@ I share our experience of organizing a one of the kind data events.
 - [Workshop](#workshop)
   - [Part 1](#part-1)
   - [Part 2](#part-2)
+    - [Classroom](#classroom)
+    - [Genetic disorder](#genetic-disorder)
+    - [Literacy disparity](#literacy-disparity)
 - [Logistics](#logistics)
   - [Registrations](#registrations)
   - [Participants](#participants)
@@ -39,7 +42,18 @@ The sessions are geared towards people who are interested to narrate stories thr
 As *Ramya* taught participants about expressions, emotions, characters... they practiced along. At the end of the hour, participants were asked to create a character of their own choice.
 
 ### Part 2
-In second half of the day, participants were given datasets to find insights and narrate a story on. They roughly had 2.5 hrs to do so.
+In second half of the day, participants were given datasets to find insights and narrate a story on. They roughly had 2.5 hrs to do so. Below are some of the final submissions.
+
+#### Classroom
+This was a perfect example of how one could narrate a story (female child literacy). There are clear stakeholders (students... boys and girls, teachers), charts used as a teaching aid that take a story forward. Expressions of the characters vary from panel to panel capturing the intent of the narrated text. Camera angle varies in of the panels too.
+
+#### Genetic disorder
+This submission combined different data properties for a perfect narration: real images, news media relevancy, antenatal checks for pregnant women, literacy. Expressions of the characters vary from panel to panel with important text highlighted (numbers, indicators, diseases).
+
+#### Literacy disparity
+This submission is topical in talking about literacy disparity rate between men and women and highlight . 
+
+#### 
 
 ## Logistics
 ### Registrations
