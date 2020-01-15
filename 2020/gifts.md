@@ -4,7 +4,7 @@ My recent experiences in organizing data comics workshops and curating a physica
 
 Public communication is a powerful medium to take data visualization, data insights to common people (so-called non-technical folk). While conferences, workshops are a way to engage with public it isn't the only way.
 
-Gramener's business cards are a good way to introduce data visualizations for an engaging coversation.
+Gramener's business cards are a good way to introduce data visualizations for an engaging conversation.
 
 I like gifting people. It's something I haven't done in long time as a choice.
 
